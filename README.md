@@ -1,5 +1,7 @@
 # Pages Angular App
 
+A single page that has a minimal design, rendering just one image and title for that image on the screen at a time. Bootstrap paginator was used for user interaction.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
